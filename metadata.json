@@ -1,0 +1,6 @@
+{
+  "name": "YAAZH",
+  "description": "An AI-powered learning and practice platform for Industry-Academia partnership facilitation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
